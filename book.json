@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "alerts"
+  ],
+  "pluginsConfig": {
+    "sharing": {
+      "facebook": false,
+      "twitter": false,
+      "google": false,
+      "instapaper": false
+    }
+  }
+}
