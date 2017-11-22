@@ -38,14 +38,6 @@ body, .book .book-header, .book .book-summary, .book .book-body {
   /* Hide the option to change the font via the Font Settings */
   display: none;
 }
-.book-summary,
-.book-body .book-header {
-  /*Hide the Sidebar and header, since there is only one page */
-  display: none;
-}
-.book.with-summary .book-body {
-    left: 0 !important;
-}
 .markdown-section> :first-child::before {
     content: "";
     background-image: url("./ITS-logo-horz.png");
