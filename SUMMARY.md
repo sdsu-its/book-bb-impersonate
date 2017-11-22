@@ -1,3 +1,12 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* Installation
+* Usage
+  * Granting Permissions
+  * Impersonating a User
+  * Accessing Logs
+* Troubleshooting
+
+
+
