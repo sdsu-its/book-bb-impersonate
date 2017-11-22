@@ -3,10 +3,8 @@
 * [Introduction](README.md)
 * Installation
 * Usage
-  * Granting Permissions
+  * [Granting Permissions](granting-permissions.md)
   * Impersonating a User
   * Accessing Logs
 * Troubleshooting
-
-
 
