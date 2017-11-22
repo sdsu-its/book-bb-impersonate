@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* Installation
+* [Installation](installation.md)
 * Usage
   * [Granting Permissions](granting-permissions.md)
-  * Impersonating a User
-  * Accessing Logs
-* Troubleshooting
+  * [Impersonating a User](execute-impersonate.md)
+  * [Accessing Logs](logs.md)
+* [Troubleshooting](troubleshooting.md)
 
