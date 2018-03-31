@@ -1,10 +1,8 @@
-# Installation of Impersonate B2
+# Installation
 
 The Impersonate Building Block can be installed just like any other Building Block \(commonly abbreviated to B2\) in Blackboard. The latest version of the B2 can be downloaded from SDSU ITS' GitHub - [https://github.com/sdsu-its/bb-impersonate/releases](https://github.com/sdsu-its/bb-impersonate/releases)
 
-![](/assets/releases.png)
-
-
+![](.gitbook/assets/releases.png)
 
 As a system administrator, from your Blackboard's Administrator Panel, upload the Building Block `.war` file under Building Blocks &gt; Building Blocks &gt; Installed Tools. Next choose **Upload Building Blocks**, and then upload the `bb-impersonate.war` file you downloaded from GitHub.
 
